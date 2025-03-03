@@ -1,5 +1,5 @@
 # Vanilla II: The Journey
-This the official Github page for the Vanilla II modpack available on both Modrinth and CurseForge.
+This the official Github page for the Vanilla II Minecraft modpack available on both Modrinth and CurseForge.
 
 Modrinth Page: https://modrinth.com/project/vanilla-ii
 
