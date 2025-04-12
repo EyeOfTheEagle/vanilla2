@@ -1,0 +1,44 @@
+{
+	"schemaVersion": 1,
+	"id": "vanilla2",
+	"version": "${version}",
+	"name": "Vanilla II",
+	"description": "The core mod for the Vanilla II modpack",
+	"authors": [
+		"EaglesEye"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/vanilla2/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"eagleseye.vanilla2.VanillaII"
+		],
+		"client": [
+			"eagleseye.vanilla2.VanillaIIClient"
+		],
+		"fabric-datagen": [
+			"eagleseye.vanilla2.VanillaIIDataGenerator"
+		]
+	},
+	"mixins": [
+		"vanilla2.mixins.json",
+		{
+			"config": "vanilla2.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.16.10",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

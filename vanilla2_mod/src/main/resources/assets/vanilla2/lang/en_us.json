@@ -1,0 +1,10 @@
+{
+  "itemGroup.vanilla2": "Vanilla II",
+
+  "item.vanilla2.aeternium_upgrade_smithing_template": "Smithing Template",
+  "item.vanilla2.aeternium_upgrade": "Aeternium Upgrade",
+  "item.vanilla2.smithing_template.aeternium_upgrade.applies_to": "Netherite Equipment",
+  "item.vanilla2.smithing_template.aeternium_upgrade.ingredients": "Aeternium Ingot",
+  "item.smithing_template.aeternium_upgrade.base_slot_description": "Add netherite armor, weapon or tool",
+  "item.vanilla2.smithing_template.aeternium_upgrade.additions_slot_description": "Add Aeternium Ingot"
+}
