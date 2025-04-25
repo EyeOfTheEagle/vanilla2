@@ -2,6 +2,7 @@
 This the official Github page for the Vanilla II Minecraft modpack available on both Modrinth and CurseForge.
 
 Modrinth Page: https://modrinth.com/project/vanilla-ii
+
 CurseForge Page: https://www.curseforge.com/minecraft/modpacks/vanilla-ii-journey
 
 ### The Mod
